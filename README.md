@@ -1,0 +1,2 @@
+# mojograd
+mojo + tinygrad = mojograd
